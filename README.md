@@ -1,4 +1,8 @@
 # firstjavaeeproject
+ Name:Hongfu Wang
+ Where:China
+ Food:Sweet,Hot,Delitious
+ Hoby: Running Swiming
 学习java，现在可以使用servlet 注解，不用配置web.xml,读写数据库，
 包含如何上传文件
 
